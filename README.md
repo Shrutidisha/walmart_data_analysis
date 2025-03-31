@@ -55,9 +55,9 @@ Revenue with vs. without Promotion: Assesses the impact of promotions on sales.
 Preferred Payment Methods: Identifies the most frequently used payment options.
 
 
- Data Visualization with PostgreSQL
+ Data Visualization with Power BI
 
-Apart from SQL-based analysis, PostgreSQL visualization functions were used for insights:
+Apart from SQL-based analysis, visualization functions were used for insights:
 
 Bar Charts: Sales trends over time (monthly, quarterly revenue)
 
