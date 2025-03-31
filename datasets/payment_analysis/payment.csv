@@ -1,0 +1,5 @@
+payment_method,customer_using,transaction_count,revenue,total_quantity,avg_order_value
+Digital Wallet,1181,1263,3964782.71,3777,3139.178709
+Credit Card,1189,1281,3829054.57,3804,2989.113638
+Cash,1182,1246,3816860.66,3702,3063.291059
+Debit Card,1135,1210,3652903.51,3631,3018.928521
