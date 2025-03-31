@@ -1,0 +1,800 @@
+store_id,store_location,store_revenue,sold_quantity,product_name
+7,"Chicago, IL",56505.06,41,Fridge
+17,"Dallas, TX",55149.78,47,Tablet
+10,"Miami, FL",51840.07,41,Headphones
+20,"Miami, FL",50151.68,33,TV
+1,"Los Angeles, CA",49608.26,46,Headphones
+10,"Dallas, TX",48260.95,50,Fridge
+5,"Chicago, IL",47331.79,37,TV
+6,"Chicago, IL",46906.03,38,Camera
+16,"Los Angeles, CA",46573.7,38,Headphones
+9,"Dallas, TX",46372.9,50,Tablet
+2,"Chicago, IL",46276.15,41,Tablet
+15,"Chicago, IL",45573.22,39,Smartphone
+18,"Miami, FL",44928.7,39,Washing Machine
+15,"Chicago, IL",44488.55,34,Washing Machine
+4,"New York, NY",43826.24,35,Laptop
+1,"Los Angeles, CA",43176.84,35,Smartphone
+8,"New York, NY",43151.56,35,Camera
+8,"Chicago, IL",43141.98,36,TV
+11,"Chicago, IL",42637.28,31,Camera
+9,"Los Angeles, CA",42580.35,32,Laptop
+1,"New York, NY",42369.14,35,Headphones
+18,"Los Angeles, CA",41803.83,37,Washing Machine
+11,"Miami, FL",41797.56,32,Smartphone
+11,"New York, NY",41271.58,34,Camera
+12,"Miami, FL",41071.25,28,Washing Machine
+20,"Los Angeles, CA",40798.92,30,Tablet
+14,"New York, NY",39924.72,33,Fridge
+11,"Chicago, IL",39676.38,31,TV
+11,"New York, NY",39455.52,36,Washing Machine
+7,"New York, NY",38905.78,43,Fridge
+1,"New York, NY",38880.97,39,Tablet
+15,"Los Angeles, CA",37233.76,37,Headphones
+2,"Miami, FL",37197.72,33,Tablet
+15,"Los Angeles, CA",37150.88,31,Tablet
+17,"Los Angeles, CA",36849.21,33,TV
+10,"New York, NY",36697.7,27,Fridge
+17,"Chicago, IL",36569.52,32,Washing Machine
+10,"Los Angeles, CA",36440.09,30,Laptop
+5,"Dallas, TX",36370.83,30,Fridge
+7,"Dallas, TX",36058.01,36,Washing Machine
+14,"Dallas, TX",36020.38,27,Headphones
+18,"Chicago, IL",35859.31,36,TV
+9,"New York, NY",35571.72,32,Fridge
+2,"Chicago, IL",35556.91,37,TV
+2,"Miami, FL",35436.28,36,Washing Machine
+11,"Dallas, TX",35271.75,28,Tablet
+10,"Los Angeles, CA",35241.01,25,TV
+1,"New York, NY",35169.67,30,Laptop
+3,"New York, NY",34870.06,33,Headphones
+4,"New York, NY",34822.97,29,Camera
+20,"New York, NY",34814.37,26,Camera
+16,"Los Angeles, CA",34721.19,27,Smartphone
+9,"Los Angeles, CA",34416.99,22,Camera
+20,"Dallas, TX",34252.81,28,Washing Machine
+2,"Miami, FL",33796.31,29,Headphones
+15,"Dallas, TX",33758.98,28,Tablet
+3,"Los Angeles, CA",33551.68,27,Washing Machine
+16,"Dallas, TX",33503.09,33,Tablet
+5,"Dallas, TX",33431.21,26,Laptop
+6,"Dallas, TX",33391.48,19,TV
+6,"Dallas, TX",33130.81,34,Fridge
+5,"Miami, FL",33012.1,25,Fridge
+19,"Los Angeles, CA",32768.17,33,TV
+15,"New York, NY",32532.83,21,Washing Machine
+1,"Chicago, IL",32527.61,29,Smartphone
+5,"Chicago, IL",32506.55,26,Washing Machine
+17,"Chicago, IL",32502.93,29,Fridge
+19,"Miami, FL",32064.55,21,Headphones
+2,"Los Angeles, CA",32063.76,27,Camera
+3,"Miami, FL",32005.52,25,TV
+3,"Miami, FL",31996.26,33,Fridge
+12,"Chicago, IL",31950.65,32,Washing Machine
+13,"Los Angeles, CA",31906.42,26,Camera
+5,"Chicago, IL",31855.05,25,Laptop
+14,"Los Angeles, CA",31842.42,25,Washing Machine
+1,"Miami, FL",31769.85,30,Washing Machine
+12,"Los Angeles, CA",31744.84,23,Camera
+1,"Miami, FL",31666.62,29,Tablet
+14,"New York, NY",31620.37,28,Washing Machine
+9,"Dallas, TX",31490.7,23,Laptop
+13,"Miami, FL",31370.64,38,Tablet
+7,"New York, NY",31368.33,27,TV
+2,"New York, NY",31326.93,26,Smartphone
+4,"Los Angeles, CA",31308.66,27,Fridge
+17,"Chicago, IL",31213.77,26,TV
+11,"Los Angeles, CA",31175.49,26,Smartphone
+17,"Chicago, IL",31161.68,26,Camera
+10,"Chicago, IL",31024.78,21,Headphones
+14,"New York, NY",30995.2,34,Laptop
+13,"Miami, FL",30977.07,42,Fridge
+16,"Chicago, IL",30899.87,27,Smartphone
+9,"Miami, FL",30827.9,31,Laptop
+8,"Miami, FL",30817.18,23,Tablet
+15,"Miami, FL",30748.45,24,Washing Machine
+5,"Dallas, TX",30655.45,30,Headphones
+5,"New York, NY",30506.02,26,Headphones
+15,"Miami, FL",30296.18,20,Tablet
+14,"Chicago, IL",30270.37,28,Smartphone
+6,"Los Angeles, CA",30177.66,35,Fridge
+5,"Dallas, TX",30080.79,26,Washing Machine
+3,"Dallas, TX",30018.09,26,Washing Machine
+6,"Los Angeles, CA",29899.54,30,Smartphone
+12,"Los Angeles, CA",29880.64,36,Smartphone
+13,"New York, NY",29799.95,27,Smartphone
+10,"Los Angeles, CA",29796.32,24,Camera
+6,"Dallas, TX",29716.94,23,Tablet
+3,"Miami, FL",29428.34,21,Tablet
+7,"Los Angeles, CA",29373.75,30,TV
+4,"Los Angeles, CA",29334.95,34,Headphones
+12,"Chicago, IL",29228.24,28,TV
+17,"Chicago, IL",29226.72,23,Smartphone
+15,"Dallas, TX",29148.84,23,TV
+12,"Los Angeles, CA",29052.99,25,Laptop
+19,"Chicago, IL",29044.86,31,Camera
+4,"New York, NY",28990.65,24,Tablet
+4,"Chicago, IL",28959.41,23,Headphones
+4,"Dallas, TX",28910.27,31,Smartphone
+12,"Los Angeles, CA",28901.62,23,Washing Machine
+5,"Dallas, TX",28887.84,27,TV
+19,"Miami, FL",28821.7,27,Camera
+19,"New York, NY",28645.83,31,Washing Machine
+4,"Chicago, IL",28529.91,25,Camera
+6,"Miami, FL",28504.16,21,Fridge
+1,"Dallas, TX",28487.44,22,Tablet
+17,"Dallas, TX",28458.72,24,Smartphone
+3,"Los Angeles, CA",28403.58,19,Smartphone
+17,"Los Angeles, CA",28269.42,22,Fridge
+8,"New York, NY",28205.89,24,Tablet
+9,"Dallas, TX",28138.36,25,Smartphone
+11,"Chicago, IL",28074.07,20,Headphones
+17,"Dallas, TX",27875.28,26,Camera
+10,"Chicago, IL",27864.67,25,Camera
+3,"Los Angeles, CA",27849.88,23,Headphones
+15,"Dallas, TX",27731.37,23,Smartphone
+11,"Chicago, IL",27727.07,29,Smartphone
+11,"Dallas, TX",27707.9,25,TV
+6,"Chicago, IL",27704.82,27,Tablet
+20,"Los Angeles, CA",27681.76,22,Camera
+5,"Miami, FL",27565.9,25,Camera
+9,"Chicago, IL",27529.82,28,Smartphone
+1,"Miami, FL",27505.08,21,Laptop
+8,"Miami, FL",27446.62,23,Fridge
+12,"Chicago, IL",27370.63,28,Fridge
+19,"New York, NY",27365.02,21,Camera
+20,"New York, NY",27340.33,26,Laptop
+1,"Dallas, TX",27289.98,23,Camera
+13,"Dallas, TX",27190.98,33,Fridge
+17,"Dallas, TX",27097.77,18,Washing Machine
+12,"New York, NY",27053.2,19,Laptop
+14,"New York, NY",26966.6,25,TV
+1,"Chicago, IL",26946.01,20,Washing Machine
+17,"Miami, FL",26846.66,21,Camera
+8,"Miami, FL",26775.39,32,TV
+10,"Chicago, IL",26715.79,20,Tablet
+2,"Dallas, TX",26664.29,23,Camera
+20,"New York, NY",26551.34,21,TV
+13,"Chicago, IL",26529.46,22,Camera
+18,"Dallas, TX",26483.36,27,Washing Machine
+5,"Miami, FL",26416.06,27,Washing Machine
+16,"Chicago, IL",26156.73,27,Tablet
+14,"Los Angeles, CA",26150.79,19,TV
+16,"Miami, FL",26118.19,18,TV
+14,"Los Angeles, CA",26080.3,18,Fridge
+16,"Miami, FL",26016.72,27,Washing Machine
+9,"New York, NY",25994.57,24,Camera
+19,"Dallas, TX",25963.51,30,Smartphone
+19,"Chicago, IL",25917.53,31,Headphones
+19,"Dallas, TX",25917.3,23,Camera
+13,"Los Angeles, CA",25916.34,19,Smartphone
+17,"Miami, FL",25887.98,19,Washing Machine
+8,"Los Angeles, CA",25887.39,16,Camera
+19,"Los Angeles, CA",25871.18,22,Smartphone
+11,"New York, NY",25841.12,21,Headphones
+9,"Miami, FL",25705.15,22,Smartphone
+6,"Miami, FL",25674.21,17,Smartphone
+1,"Los Angeles, CA",25662.62,22,TV
+9,"Miami, FL",25656.56,18,TV
+18,"Chicago, IL",25627.4,22,Smartphone
+19,"Los Angeles, CA",25598.47,26,Headphones
+1,"New York, NY",25559.53,25,Camera
+18,"Chicago, IL",25554.38,29,Fridge
+14,"Chicago, IL",25544.06,24,Headphones
+19,"Miami, FL",25537.35,27,Tablet
+1,"Los Angeles, CA",25506.77,28,Camera
+19,"Los Angeles, CA",25447.75,29,Tablet
+20,"New York, NY",25445.15,19,Tablet
+11,"Dallas, TX",25441.83,21,Smartphone
+9,"New York, NY",25332.35,21,Smartphone
+8,"Dallas, TX",25247.44,26,Laptop
+18,"Chicago, IL",25132.61,26,Camera
+12,"Dallas, TX",25117,18,TV
+14,"New York, NY",25109.33,30,Smartphone
+7,"Dallas, TX",25102.05,27,Tablet
+17,"Miami, FL",25043.09,29,Fridge
+20,"Chicago, IL",24994.36,35,TV
+5,"Chicago, IL",24975.52,22,Headphones
+4,"Los Angeles, CA",24971.79,24,TV
+13,"Los Angeles, CA",24910.67,22,TV
+13,"Los Angeles, CA",24900.89,24,Tablet
+16,"Dallas, TX",24869.68,27,Headphones
+5,"New York, NY",24749.9,24,TV
+2,"New York, NY",24749.49,18,Tablet
+7,"Los Angeles, CA",24710.03,24,Laptop
+16,"Los Angeles, CA",24690.74,27,Washing Machine
+11,"Miami, FL",24580.66,22,Fridge
+3,"Dallas, TX",24497.59,19,Smartphone
+18,"Los Angeles, CA",24464.14,23,Fridge
+20,"New York, NY",24459.86,27,Headphones
+11,"New York, NY",24455.6,23,TV
+6,"Los Angeles, CA",24424.46,18,Washing Machine
+7,"Miami, FL",24406.1,17,Camera
+18,"New York, NY",24301.59,22,TV
+8,"New York, NY",24252.62,21,Smartphone
+8,"New York, NY",24180.24,30,Fridge
+2,"Miami, FL",24176.26,36,Camera
+12,"Chicago, IL",24150.95,25,Tablet
+15,"Miami, FL",24117.9,23,TV
+11,"Dallas, TX",24088.11,22,Headphones
+17,"Dallas, TX",24074.38,22,Laptop
+2,"Los Angeles, CA",23971.62,24,Fridge
+7,"New York, NY",23963.26,20,Smartphone
+1,"Chicago, IL",23846.68,21,Headphones
+16,"New York, NY",23846.49,21,Smartphone
+16,"New York, NY",23798.68,17,TV
+16,"Los Angeles, CA",23688.34,24,TV
+3,"Los Angeles, CA",23647.78,27,TV
+20,"Dallas, TX",23585.55,19,Headphones
+19,"Chicago, IL",23571.82,28,Tablet
+5,"Chicago, IL",23548.2,25,Camera
+4,"New York, NY",23531.12,18,Smartphone
+10,"Miami, FL",23489.15,21,Smartphone
+15,"Los Angeles, CA",23457.35,21,Laptop
+2,"Los Angeles, CA",23451.95,22,Tablet
+2,"Miami, FL",23382.86,22,Smartphone
+8,"Chicago, IL",23382.23,27,Camera
+1,"Los Angeles, CA",23372.62,20,Washing Machine
+14,"Miami, FL",23359.1,17,TV
+7,"Chicago, IL",23188.31,24,Headphones
+9,"Dallas, TX",23186.57,21,Washing Machine
+19,"Chicago, IL",23147.62,15,Fridge
+8,"Los Angeles, CA",23136.91,27,Washing Machine
+10,"New York, NY",23078.51,16,TV
+15,"Miami, FL",23014.46,24,Smartphone
+2,"Dallas, TX",22983.44,24,Washing Machine
+4,"Los Angeles, CA",22915.04,31,Laptop
+9,"New York, NY",22885.13,20,TV
+20,"Miami, FL",22833.47,23,Tablet
+18,"Dallas, TX",22772.45,18,Headphones
+15,"Los Angeles, CA",22716.77,23,Camera
+5,"Miami, FL",22667.45,23,TV
+18,"Miami, FL",22623.37,21,Smartphone
+17,"Miami, FL",22592.74,21,Smartphone
+3,"New York, NY",22579.38,31,TV
+12,"New York, NY",22538.51,16,TV
+13,"Chicago, IL",22466.83,31,Laptop
+2,"Los Angeles, CA",22459.14,26,Smartphone
+2,"New York, NY",22428.5,17,Camera
+4,"Chicago, IL",22421.31,15,Laptop
+11,"Los Angeles, CA",22412.42,20,Tablet
+16,"Chicago, IL",22398.92,16,Headphones
+2,"Dallas, TX",22347.66,24,Fridge
+14,"Chicago, IL",22327.93,21,Washing Machine
+5,"Chicago, IL",22247.95,17,Fridge
+19,"Dallas, TX",22235.79,21,Fridge
+16,"Los Angeles, CA",22235,20,Laptop
+3,"Chicago, IL",22227.7,24,TV
+20,"Los Angeles, CA",22210.86,23,TV
+2,"Dallas, TX",22195.17,20,TV
+10,"Chicago, IL",22131.41,22,Washing Machine
+1,"Los Angeles, CA",22049.96,23,Tablet
+3,"Los Angeles, CA",22049.13,24,Tablet
+13,"Miami, FL",22037.97,30,Smartphone
+15,"Dallas, TX",22028.21,14,Headphones
+16,"Chicago, IL",21989.63,26,Fridge
+6,"Chicago, IL",21923.67,20,Fridge
+16,"Dallas, TX",21890.43,16,Fridge
+19,"Miami, FL",21839.14,21,Smartphone
+12,"Miami, FL",21807.11,19,Tablet
+8,"Los Angeles, CA",21804.28,18,Smartphone
+17,"Dallas, TX",21796.3,21,Headphones
+15,"Miami, FL",21780.65,22,Fridge
+3,"Chicago, IL",21756.91,31,Tablet
+8,"Dallas, TX",21653.46,15,Smartphone
+17,"Los Angeles, CA",21648.17,17,Tablet
+9,"New York, NY",21612.35,22,Tablet
+13,"Chicago, IL",21600.12,34,TV
+13,"Miami, FL",21568.4,21,Camera
+15,"New York, NY",21553.85,26,Fridge
+14,"Miami, FL",21541.73,22,Washing Machine
+7,"Los Angeles, CA",21501.47,19,Tablet
+6,"Chicago, IL",21500.69,18,Headphones
+11,"Los Angeles, CA",21488.98,17,Camera
+15,"Chicago, IL",21416.71,21,TV
+19,"Dallas, TX",21393.16,16,Laptop
+20,"Los Angeles, CA",21368.52,22,Washing Machine
+12,"Los Angeles, CA",21296.37,30,Headphones
+19,"Los Angeles, CA",21289.34,19,Fridge
+20,"Chicago, IL",21272.7,28,Laptop
+9,"Chicago, IL",21220.17,23,TV
+20,"New York, NY",21164.63,18,Washing Machine
+2,"Miami, FL",21159.79,19,Laptop
+13,"New York, NY",21127.35,20,Washing Machine
+13,"Dallas, TX",21119.05,28,Headphones
+8,"Dallas, TX",21113.3,24,Tablet
+6,"Los Angeles, CA",21057.85,19,Laptop
+13,"Dallas, TX",21053.91,19,Tablet
+4,"Los Angeles, CA",21053.42,26,Smartphone
+6,"Los Angeles, CA",21046.99,17,TV
+18,"Chicago, IL",21038.8,14,Tablet
+12,"Miami, FL",21003.01,15,TV
+17,"Los Angeles, CA",20991.83,23,Laptop
+8,"Los Angeles, CA",20953.86,19,Tablet
+5,"Miami, FL",20950.67,20,Tablet
+3,"Miami, FL",20920.81,21,Camera
+10,"Miami, FL",20733.44,19,Tablet
+15,"New York, NY",20685.25,23,Camera
+8,"Los Angeles, CA",20654.46,23,Laptop
+11,"Chicago, IL",20641.58,17,Tablet
+5,"Miami, FL",20629.8,17,Laptop
+11,"New York, NY",20584.59,23,Smartphone
+11,"Chicago, IL",20572.47,17,Laptop
+16,"Dallas, TX",20522.26,13,TV
+5,"Dallas, TX",20504.77,21,Camera
+8,"Chicago, IL",20500.02,25,Headphones
+7,"New York, NY",20496.86,23,Headphones
+1,"New York, NY",20443.22,21,TV
+8,"Miami, FL",20380.62,19,Camera
+6,"Los Angeles, CA",20379.05,30,Camera
+8,"New York, NY",20293.99,25,Washing Machine
+8,"Chicago, IL",20211.21,23,Laptop
+14,"New York, NY",20153.35,26,Tablet
+5,"Los Angeles, CA",20146.93,18,Headphones
+4,"Los Angeles, CA",20045.61,24,Tablet
+1,"Chicago, IL",20025.24,25,Tablet
+7,"Chicago, IL",20017.69,16,Camera
+15,"Chicago, IL",19950,22,Fridge
+9,"Dallas, TX",19944.36,18,TV
+11,"Miami, FL",19860.98,18,Laptop
+18,"Los Angeles, CA",19776.37,18,Smartphone
+3,"Chicago, IL",19776.35,23,Camera
+12,"Los Angeles, CA",19754.85,26,Tablet
+20,"Miami, FL",19702.11,16,Laptop
+3,"Miami, FL",19687.8,19,Washing Machine
+20,"New York, NY",19666.09,15,Fridge
+4,"Chicago, IL",19655.33,19,Washing Machine
+3,"Chicago, IL",19638.52,13,Headphones
+10,"Los Angeles, CA",19598.22,16,Tablet
+9,"Miami, FL",19559.42,26,Headphones
+10,"Miami, FL",19515.24,23,Laptop
+19,"Los Angeles, CA",19508.58,20,Camera
+11,"Chicago, IL",19445.76,18,Fridge
+19,"Miami, FL",19440.74,19,TV
+20,"Dallas, TX",19412.37,14,Fridge
+18,"Dallas, TX",19352.25,16,TV
+8,"Dallas, TX",19342.66,17,Washing Machine
+5,"Los Angeles, CA",19301.29,24,Fridge
+2,"Chicago, IL",19231.28,16,Smartphone
+16,"Chicago, IL",19168.96,24,Camera
+9,"Chicago, IL",19143.37,16,Washing Machine
+19,"Miami, FL",19111.77,23,Fridge
+9,"Chicago, IL",19089.51,15,Laptop
+12,"New York, NY",19053.91,27,Fridge
+7,"Los Angeles, CA",19045.85,19,Smartphone
+3,"Chicago, IL",19007.69,29,Smartphone
+5,"Los Angeles, CA",18940.04,17,Washing Machine
+8,"Dallas, TX",18937.44,22,Fridge
+6,"Dallas, TX",18890.76,21,Smartphone
+9,"Los Angeles, CA",18877.91,20,Fridge
+7,"Los Angeles, CA",18874.48,19,Fridge
+17,"Miami, FL",18744.09,17,TV
+17,"Los Angeles, CA",18723.5,19,Camera
+3,"New York, NY",18708.73,25,Fridge
+7,"Miami, FL",18666,17,Headphones
+9,"New York, NY",18619.15,17,Laptop
+6,"Miami, FL",18613.06,18,TV
+18,"New York, NY",18505.05,19,Tablet
+12,"Dallas, TX",18465.95,23,Laptop
+16,"New York, NY",18457.68,21,Washing Machine
+19,"New York, NY",18420.41,27,Headphones
+20,"Miami, FL",18418.27,13,Fridge
+2,"Chicago, IL",18398.54,18,Fridge
+19,"Dallas, TX",18398.51,13,TV
+14,"Dallas, TX",18390.54,16,Tablet
+20,"Chicago, IL",18385.89,15,Smartphone
+14,"Chicago, IL",18365.94,21,Camera
+15,"Miami, FL",18330.83,22,Camera
+11,"New York, NY",18289.63,18,Fridge
+13,"Los Angeles, CA",18287.2,22,Fridge
+16,"Miami, FL",18277.55,27,Smartphone
+18,"Miami, FL",18269.77,13,Headphones
+10,"Dallas, TX",18255.3,20,Washing Machine
+7,"Chicago, IL",18249.74,12,Laptop
+8,"New York, NY",18192.16,22,Laptop
+10,"New York, NY",18148.97,16,Tablet
+10,"Los Angeles, CA",18125.11,22,Headphones
+18,"Miami, FL",18115.27,14,Fridge
+18,"Los Angeles, CA",18072.41,26,TV
+18,"Dallas, TX",18042.6,17,Tablet
+13,"Miami, FL",17994.6,17,Headphones
+16,"New York, NY",17958.2,21,Camera
+18,"Los Angeles, CA",17949.5,13,Laptop
+3,"Dallas, TX",17938.41,19,Headphones
+12,"Dallas, TX",17896.82,19,Smartphone
+7,"New York, NY",17845.21,15,Laptop
+5,"New York, NY",17749.79,12,Smartphone
+4,"New York, NY",17740.56,17,Fridge
+10,"Miami, FL",17666.29,21,Camera
+11,"Dallas, TX",17644.48,16,Washing Machine
+11,"Los Angeles, CA",17638.16,14,Fridge
+9,"Miami, FL",17612.88,12,Washing Machine
+10,"New York, NY",17609.88,13,Smartphone
+17,"Chicago, IL",17607.3,13,Headphones
+9,"Dallas, TX",17548.79,20,Camera
+5,"New York, NY",17504.95,28,Fridge
+17,"Chicago, IL",17456.55,21,Tablet
+16,"Los Angeles, CA",17419.52,23,Fridge
+18,"Dallas, TX",17282.83,22,Laptop
+9,"Los Angeles, CA",17280.71,18,Washing Machine
+7,"Chicago, IL",17278.9,22,TV
+14,"Miami, FL",17274.62,19,Camera
+20,"Dallas, TX",17273.55,28,Smartphone
+13,"Chicago, IL",17266.59,21,Headphones
+1,"Dallas, TX",17257,13,Headphones
+18,"Miami, FL",17226.7,16,Tablet
+4,"New York, NY",17213.76,18,Washing Machine
+2,"Miami, FL",17196.09,15,TV
+20,"Los Angeles, CA",17194.51,14,Headphones
+4,"Miami, FL",17175.8,23,Laptop
+14,"Los Angeles, CA",17166.77,16,Laptop
+14,"Los Angeles, CA",17130.58,16,Tablet
+18,"Dallas, TX",17125.86,19,Smartphone
+7,"Los Angeles, CA",17122.43,12,Headphones
+1,"Dallas, TX",17067.07,22,Fridge
+19,"New York, NY",17064.46,22,Smartphone
+7,"Miami, FL",17036.26,18,Tablet
+13,"New York, NY",17026,22,TV
+1,"New York, NY",16979.14,17,Smartphone
+19,"Chicago, IL",16960.63,11,Smartphone
+1,"Chicago, IL",16918.99,12,TV
+7,"New York, NY",16834.88,18,Washing Machine
+16,"Los Angeles, CA",16824.6,17,Camera
+10,"Miami, FL",16821.77,12,TV
+20,"Miami, FL",16795.17,23,Washing Machine
+17,"New York, NY",16778.46,17,Washing Machine
+20,"Chicago, IL",16774.8,17,Fridge
+7,"Dallas, TX",16773.92,19,Laptop
+7,"Miami, FL",16773.43,11,Smartphone
+9,"Miami, FL",16770.19,17,Tablet
+3,"Dallas, TX",16735.23,19,TV
+11,"Miami, FL",16595.31,20,Camera
+10,"New York, NY",16592.96,17,Washing Machine
+10,"Miami, FL",16537.33,15,Washing Machine
+8,"Miami, FL",16529.22,20,Headphones
+3,"New York, NY",16507.18,14,Camera
+11,"Dallas, TX",16505.9,28,Camera
+12,"Miami, FL",16474.97,14,Smartphone
+3,"Chicago, IL",16468.75,13,Laptop
+20,"Los Angeles, CA",16400.82,17,Fridge
+3,"Los Angeles, CA",16393.75,20,Laptop
+13,"New York, NY",16338.35,21,Fridge
+10,"Dallas, TX",16325.13,21,TV
+12,"New York, NY",16275.33,22,Camera
+17,"Dallas, TX",16257.44,23,Fridge
+19,"New York, NY",16255.56,16,Fridge
+9,"Chicago, IL",16255.29,16,Fridge
+14,"Dallas, TX",16252.5,12,Camera
+16,"Dallas, TX",16235.8,11,Laptop
+12,"Dallas, TX",16200.72,18,Headphones
+13,"Los Angeles, CA",16184.68,21,Headphones
+1,"Dallas, TX",16163.54,16,Smartphone
+11,"Dallas, TX",16105.34,20,Laptop
+16,"Miami, FL",16043.05,19,Laptop
+20,"Los Angeles, CA",16027.87,16,Laptop
+12,"Chicago, IL",16000.28,12,Camera
+16,"Chicago, IL",15990.13,13,Laptop
+2,"Los Angeles, CA",15966.44,12,Laptop
+2,"Dallas, TX",15954.75,18,Tablet
+15,"Dallas, TX",15930.23,15,Washing Machine
+17,"Chicago, IL",15921.56,15,Laptop
+13,"New York, NY",15892.96,16,Headphones
+8,"New York, NY",15857.68,19,Headphones
+16,"Los Angeles, CA",15824.29,19,Tablet
+11,"Los Angeles, CA",15792.15,12,Laptop
+20,"New York, NY",15779.99,11,Smartphone
+3,"Los Angeles, CA",15752.82,12,Camera
+4,"Miami, FL",15659.36,13,Headphones
+19,"New York, NY",15634.58,14,Laptop
+7,"Chicago, IL",15632.59,21,Smartphone
+4,"Dallas, TX",15551.45,10,Washing Machine
+20,"Dallas, TX",15548.25,35,Camera
+20,"Los Angeles, CA",15540.99,17,Smartphone
+7,"Miami, FL",15540.74,10,Laptop
+4,"Miami, FL",15483.71,16,Camera
+6,"New York, NY",15445.05,12,Headphones
+13,"Los Angeles, CA",15356.24,20,Laptop
+2,"New York, NY",15309.12,15,Fridge
+5,"Chicago, IL",15304.88,15,Tablet
+15,"New York, NY",15282.38,18,Headphones
+12,"Miami, FL",15275.24,13,Camera
+9,"New York, NY",15271.38,11,Headphones
+14,"New York, NY",15246.63,15,Camera
+9,"Los Angeles, CA",15238.08,10,Tablet
+10,"Dallas, TX",15225.52,13,Tablet
+20,"Chicago, IL",15151.81,20,Headphones
+18,"New York, NY",15128.45,20,Laptop
+2,"Dallas, TX",15117.22,15,Headphones
+17,"Miami, FL",15060.17,11,Tablet
+16,"New York, NY",15046.74,19,Fridge
+5,"Los Angeles, CA",15022.87,13,Laptop
+3,"New York, NY",15021.86,11,Tablet
+2,"Chicago, IL",14961.25,11,Camera
+1,"Miami, FL",14946.65,11,Smartphone
+13,"New York, NY",14861.46,14,Tablet
+15,"Los Angeles, CA",14860.32,27,Smartphone
+2,"Chicago, IL",14857.61,10,Laptop
+13,"Miami, FL",14816.51,16,Washing Machine
+13,"New York, NY",14811.9,16,Camera
+4,"Chicago, IL",14798.94,15,Fridge
+2,"Los Angeles, CA",14761.68,14,Washing Machine
+14,"Dallas, TX",14746.15,10,Fridge
+5,"Dallas, TX",14723.84,16,Smartphone
+8,"Chicago, IL",14691.9,21,Tablet
+12,"Dallas, TX",14660.31,12,Washing Machine
+11,"Los Angeles, CA",14642.99,15,Headphones
+18,"Los Angeles, CA",14605.32,17,Tablet
+16,"Dallas, TX",14563.18,16,Washing Machine
+17,"New York, NY",14547.05,15,Headphones
+6,"New York, NY",14514.1,22,Tablet
+6,"Miami, FL",14491.3,13,Tablet
+20,"Chicago, IL",14432.51,18,Tablet
+5,"New York, NY",14401.11,16,Washing Machine
+4,"Miami, FL",14394.36,14,Fridge
+13,"Los Angeles, CA",14379.62,15,Washing Machine
+10,"Chicago, IL",14378.39,20,Laptop
+9,"New York, NY",14335.52,14,Washing Machine
+1,"Miami, FL",14311.09,19,TV
+10,"Chicago, IL",14306.14,12,Fridge
+2,"Los Angeles, CA",14253.46,16,Headphones
+19,"Los Angeles, CA",14241.93,11,Laptop
+6,"Chicago, IL",14230.25,13,TV
+13,"Dallas, TX",14229.6,15,Laptop
+9,"Los Angeles, CA",14189.58,15,TV
+9,"Chicago, IL",14157.96,20,Tablet
+10,"Miami, FL",14109.34,8,Fridge
+18,"New York, NY",14082.46,16,Fridge
+16,"Chicago, IL",14072.73,11,Washing Machine
+10,"Chicago, IL",14052.08,12,Smartphone
+1,"New York, NY",14012.97,11,Washing Machine
+13,"Chicago, IL",13933.34,20,Washing Machine
+6,"New York, NY",13922.71,9,Smartphone
+13,"Chicago, IL",13889.05,12,Fridge
+14,"New York, NY",13821.21,20,Headphones
+18,"Miami, FL",13799.44,11,Laptop
+14,"Chicago, IL",13769.77,19,TV
+10,"Los Angeles, CA",13743.07,16,Washing Machine
+18,"New York, NY",13711.58,18,Camera
+8,"Los Angeles, CA",13676.54,19,Fridge
+4,"Dallas, TX",13659.06,14,Tablet
+15,"New York, NY",13650.28,14,Tablet
+17,"Los Angeles, CA",13629.45,13,Washing Machine
+3,"Los Angeles, CA",13547.87,11,Fridge
+14,"Chicago, IL",13531.7,17,Fridge
+10,"New York, NY",13513.21,11,Camera
+17,"New York, NY",13472.64,13,TV
+20,"Miami, FL",13430.54,18,Smartphone
+7,"Dallas, TX",13428.83,22,Camera
+9,"Miami, FL",13415.71,13,Fridge
+16,"Chicago, IL",13318.34,22,TV
+9,"Chicago, IL",13285.43,10,Headphones
+4,"New York, NY",13270.04,13,TV
+17,"Dallas, TX",13244.35,9,TV
+13,"Dallas, TX",13230.36,20,TV
+3,"Miami, FL",13224.67,12,Laptop
+15,"Miami, FL",13220.4,20,Headphones
+5,"New York, NY",13205.02,11,Laptop
+18,"Chicago, IL",13170.42,13,Headphones
+8,"Dallas, TX",13108.91,23,Camera
+10,"Dallas, TX",13093.53,14,Laptop
+2,"Dallas, TX",13043.27,15,Smartphone
+13,"Miami, FL",13011.49,14,Laptop
+3,"Dallas, TX",13009.54,10,Tablet
+20,"Dallas, TX",12983.39,14,TV
+14,"Miami, FL",12958.47,15,Laptop
+12,"Miami, FL",12919.75,19,Laptop
+5,"Los Angeles, CA",12911.39,16,Smartphone
+8,"Chicago, IL",12907.11,10,Smartphone
+8,"Chicago, IL",12904.24,13,Fridge
+8,"Dallas, TX",12861,10,Headphones
+15,"Chicago, IL",12839.95,13,Headphones
+14,"Los Angeles, CA",12763.17,13,Smartphone
+1,"Chicago, IL",12692.75,8,Laptop
+17,"New York, NY",12661.76,10,Tablet
+7,"Chicago, IL",12583.4,19,Tablet
+1,"Miami, FL",12560.98,17,Camera
+20,"Miami, FL",12504.98,19,Headphones
+4,"Miami, FL",12485.02,13,Washing Machine
+18,"Los Angeles, CA",12457,12,Headphones
+3,"New York, NY",12334.7,12,Laptop
+1,"Chicago, IL",12328.61,10,Fridge
+6,"New York, NY",12317.47,17,Laptop
+19,"Chicago, IL",12190.53,12,TV
+4,"Miami, FL",12067.68,14,Smartphone
+15,"Dallas, TX",12045.2,13,Fridge
+17,"Los Angeles, CA",12024.38,9,Smartphone
+9,"Dallas, TX",12013.82,9,Fridge
+15,"New York, NY",11991.28,11,Laptop
+4,"Los Angeles, CA",11983.23,8,Washing Machine
+4,"Miami, FL",11970.65,8,TV
+2,"New York, NY",11953.45,13,Headphones
+10,"Dallas, TX",11922.49,18,Headphones
+13,"Miami, FL",11893.52,11,TV
+19,"Dallas, TX",11855,11,Headphones
+15,"Los Angeles, CA",11767.07,10,Washing Machine
+8,"Dallas, TX",11688.07,8,TV
+11,"Los Angeles, CA",11653.43,11,Washing Machine
+7,"Dallas, TX",11646.54,10,TV
+12,"Miami, FL",11643.98,18,Headphones
+14,"Dallas, TX",11625.56,12,Laptop
+6,"New York, NY",11562.35,19,Fridge
+2,"New York, NY",11539.71,11,Laptop
+14,"Dallas, TX",11525.88,16,Smartphone
+17,"New York, NY",11502.39,14,Laptop
+2,"Los Angeles, CA",11490.93,8,TV
+1,"Los Angeles, CA",11468.98,11,Laptop
+15,"Dallas, TX",11461.46,13,Camera
+5,"New York, NY",11444.88,12,Camera
+7,"Dallas, TX",11422.56,19,Headphones
+18,"Los Angeles, CA",11361.12,15,Camera
+8,"Chicago, IL",11331.74,14,Washing Machine
+4,"Dallas, TX",11317.54,15,Fridge
+17,"New York, NY",11272.72,10,Smartphone
+8,"Los Angeles, CA",11226.41,13,TV
+6,"Chicago, IL",11212.21,14,Washing Machine
+5,"Miami, FL",11202.66,8,Headphones
+4,"Dallas, TX",10999.48,14,Laptop
+7,"Los Angeles, CA",10984.31,14,Washing Machine
+13,"New York, NY",10908.26,12,Laptop
+2,"Chicago, IL",10898.34,7,Washing Machine
+16,"Miami, FL",10877.64,14,Tablet
+5,"Los Angeles, CA",10846.06,12,Camera
+18,"Chicago, IL",10836.92,18,Laptop
+16,"New York, NY",10756.57,10,Headphones
+13,"Dallas, TX",10735.56,20,Washing Machine
+9,"Miami, FL",10595.43,12,Camera
+2,"New York, NY",10589.6,8,TV
+14,"Miami, FL",10581.48,9,Fridge
+10,"Chicago, IL",10559.89,11,TV
+8,"New York, NY",10475.27,22,TV
+18,"New York, NY",10434.73,10,Headphones
+12,"New York, NY",10433.67,17,Tablet
+11,"Miami, FL",10429.25,9,Tablet
+12,"Los Angeles, CA",10413.46,7,TV
+10,"Dallas, TX",10404.77,18,Camera
+7,"Miami, FL",10380.47,9,TV
+5,"Dallas, TX",10380.42,7,Tablet
+15,"New York, NY",10328.42,14,Smartphone
+10,"New York, NY",10321.16,14,Headphones
+14,"Los Angeles, CA",10317.46,11,Headphones
+6,"Miami, FL",10278.2,12,Laptop
+6,"Dallas, TX",10272.41,16,Headphones
+3,"Miami, FL",10271.51,16,Smartphone
+4,"Dallas, TX",10204.04,11,TV
+14,"Los Angeles, CA",10147.68,13,Camera
+1,"Los Angeles, CA",10130.74,11,Fridge
+3,"Dallas, TX",10084.58,10,Camera
+14,"Chicago, IL",10008.5,8,Tablet
+3,"New York, NY",9974.54,14,Washing Machine
+6,"Dallas, TX",9914.14,9,Camera
+1,"Dallas, TX",9892.57,9,TV
+4,"Chicago, IL",9880.48,15,Smartphone
+7,"Miami, FL",9748.81,10,Fridge
+8,"Miami, FL",9733.07,7,Washing Machine
+1,"Chicago, IL",9727.37,7,Camera
+12,"Dallas, TX",9723.69,15,Fridge
+16,"Dallas, TX",9686.86,10,Smartphone
+3,"Dallas, TX",9609.5,8,Laptop
+15,"Los Angeles, CA",9530.17,18,Fridge
+15,"Chicago, IL",9528.14,11,Laptop
+6,"Miami, FL",9445.34,7,Washing Machine
+14,"Miami, FL",9372.67,8,Smartphone
+18,"New York, NY",9344.45,15,Washing Machine
+11,"Miami, FL",9261.87,11,TV
+12,"Los Angeles, CA",9238.62,18,Fridge
+1,"Miami, FL",9231.71,10,Headphones
+4,"Chicago, IL",9173.65,11,TV
+3,"Dallas, TX",9165.04,9,Fridge
+5,"New York, NY",9104.69,17,Tablet
+12,"New York, NY",9071.05,9,Smartphone
+12,"Chicago, IL",9021.7,16,Headphones
+18,"Miami, FL",8992.83,5,TV
+9,"Dallas, TX",8953.91,10,Headphones
+14,"Dallas, TX",8914.32,19,TV
+20,"Dallas, TX",8840.64,11,Tablet
+15,"Chicago, IL",8821.04,12,Tablet
+19,"New York, NY",8695.34,10,TV
+19,"Chicago, IL",8641,12,Laptop
+6,"Chicago, IL",8613.4,14,Laptop
+14,"Chicago, IL",8536.43,10,Laptop
+4,"Dallas, TX",8440.97,10,Headphones
+3,"Miami, FL",8439.27,10,Headphones
+10,"New York, NY",8419.35,16,Laptop
+1,"New York, NY",8340.64,9,Fridge
+8,"Miami, FL",8332.52,12,Laptop
+10,"Dallas, TX",8274.34,11,Smartphone
+18,"Chicago, IL",8268.53,20,Washing Machine
+5,"Miami, FL",8251.26,16,Smartphone
+1,"Miami, FL",8169.2,8,Fridge
+6,"New York, NY",8151.37,9,TV
+7,"New York, NY",8068.8,8,Tablet
+18,"Dallas, TX",8047.92,10,Fridge
+7,"Dallas, TX",8045.51,7,Fridge
+20,"Miami, FL",8033.77,8,Camera
+4,"Dallas, TX",7970.84,8,Camera
+18,"Miami, FL",7876.66,12,Camera
+17,"New York, NY",7866.11,6,Fridge
+5,"Chicago, IL",7806.11,8,Smartphone
+15,"Miami, FL",7762.43,8,Laptop
+4,"Los Angeles, CA",7726.58,7,Camera
+12,"New York, NY",7685.66,8,Washing Machine
+11,"Dallas, TX",7590.49,11,Fridge
+17,"Miami, FL",7582.62,7,Laptop
+17,"Los Angeles, CA",7500.97,9,Headphones
+1,"Dallas, TX",7488.2,11,Laptop
+11,"New York, NY",7481.12,6,Laptop
+9,"Los Angeles, CA",7417.72,10,Smartphone
+7,"Miami, FL",7411.17,8,Washing Machine
+19,"Dallas, TX",7399.94,11,Washing Machine
+12,"Dallas, TX",7395.2,5,Tablet
+19,"New York, NY",7349.32,8,Tablet
+13,"Dallas, TX",7348.47,15,Smartphone
+2,"Chicago, IL",7294.57,10,Headphones
+15,"Los Angeles, CA",7268.24,8,TV
+20,"Chicago, IL",7234.7,15,Camera
+11,"Chicago, IL",7223.19,8,Washing Machine
+2,"Miami, FL",7150.56,12,Fridge
+6,"Miami, FL",7125.49,13,Headphones
+5,"Los Angeles, CA",7098.93,19,Tablet
+12,"New York, NY",7038.25,5,Headphones
+14,"Miami, FL",6963,6,Headphones
+6,"Dallas, TX",6936.72,9,Laptop
+19,"Miami, FL",6819.8,6,Laptop
+6,"Los Angeles, CA",6805.12,11,Tablet
+7,"Los Angeles, CA",6558.6,14,Camera
+11,"Los Angeles, CA",6400.52,7,TV
+10,"Los Angeles, CA",6385.85,14,Fridge
+4,"Miami, FL",6249.5,7,Tablet
+19,"Chicago, IL",6052.25,9,Washing Machine
+11,"New York, NY",5915.97,11,Tablet
+19,"Los Angeles, CA",5855.73,8,Washing Machine
+5,"Los Angeles, CA",5830.69,7,TV
+8,"Los Angeles, CA",5690.79,7,Headphones
+13,"Dallas, TX",5686.25,6,Camera
+6,"Los Angeles, CA",5651.55,5,Headphones
+12,"Chicago, IL",5566.38,6,Laptop
+1,"Dallas, TX",5466.66,4,Washing Machine
+16,"Dallas, TX",5436.21,6,Camera
+19,"Miami, FL",5361.17,6,Washing Machine
+4,"New York, NY",5286.35,5,Headphones
+16,"Miami, FL",5253.56,7,Headphones
+3,"Chicago, IL",5176.14,10,Fridge
+11,"Miami, FL",5158.25,7,Washing Machine
+6,"Miami, FL",5126.71,7,Camera
+14,"Miami, FL",5082.17,9,Tablet
+7,"New York, NY",4981.46,9,Camera
+12,"Dallas, TX",4943.82,6,Camera
+13,"Chicago, IL",4916.53,5,Smartphone
+6,"Dallas, TX",4667.93,10,Washing Machine
+12,"Miami, FL",4638.56,9,Fridge
+16,"Miami, FL",4589.36,6,Camera
+13,"Chicago, IL",4584.3,6,Tablet
+16,"Miami, FL",4551.02,4,Fridge
+10,"Los Angeles, CA",4516.36,4,Smartphone
+8,"Miami, FL",4510.02,3,Smartphone
+6,"Chicago, IL",4507.35,6,Smartphone
+14,"Dallas, TX",4446.71,6,Washing Machine
+17,"Miami, FL",4143.36,5,Headphones
+20,"Dallas, TX",4104.9,6,Laptop
+6,"New York, NY",3988.65,5,Washing Machine
+7,"Chicago, IL",3932.33,4,Washing Machine
+2,"Dallas, TX",3864.53,14,Laptop
+18,"Dallas, TX",3836.75,3,Camera
+17,"New York, NY",3659.28,5,Camera
+11,"Miami, FL",3232.61,6,Headphones
+18,"New York, NY",3168.48,8,Smartphone
+16,"New York, NY",3131.67,7,Laptop
+3,"Chicago, IL",2960.67,3,Washing Machine
+9,"Los Angeles, CA",2956.02,2,Headphones
+15,"Chicago, IL",2900.44,4,Camera
+3,"New York, NY",2877.21,6,Smartphone
+19,"Dallas, TX",2819.12,8,Tablet
+15,"New York, NY",2764.24,6,TV
+12,"Chicago, IL",2570.35,5,Smartphone
+9,"Chicago, IL",2115.73,4,Camera
+16,"New York, NY",1969.61,7,Tablet
+15,"Dallas, TX",1769.68,4,Laptop
+20,"Chicago, IL",1157.16,1,Washing Machine
+2,"New York, NY",953.93,3,Washing Machine
+6,"New York, NY",377.92,1,Camera
+4,"Chicago, IL",353.97,1,Tablet
